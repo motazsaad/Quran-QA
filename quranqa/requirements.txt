@@ -5,3 +5,4 @@ idna==3.3
 requests==2.27.1
 tqdm==4.62.3
 urllib3==1.26.8
+gensim
