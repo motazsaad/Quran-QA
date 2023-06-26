@@ -2,7 +2,7 @@
 Quran QA
 
 
-# Trained Models 
+# Fined-Tuned Models 
 
 ## arap_qa_bert_large_v2
 https://drive.google.com/drive/folders/18MJRJIizHk2eD_a8drvGUOMpoMSss1PF?usp=share_link
